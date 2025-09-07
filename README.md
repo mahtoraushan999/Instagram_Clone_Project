@@ -19,14 +19,19 @@ An Instagram clone project aims to replicate the core functionalities and user e
 **Technical Implementation**:
 
 **The project typically involves a multi-tiered architecture:**
+
 **Frontend:**
+
 Built using modern JavaScript frameworks like React, Angular, or Vue.js to create a dynamic and interactive user interface.
 
 **Backend:**
+
 Developed using frameworks such as Node.js (Express), Python (Django/Flask), Java (Spring Boot), or Ruby on Rails to handle API requests, database interactions, and business logic.
 
 **Database:**
+
 Utilizing relational databases like PostgreSQL or MySQL, or NoSQL databases like MongoDB, for storing user data, posts, comments, likes, and follower relationships.
 
-***Cloud Storage:**
+**Cloud Storage:**
+
 Integration with cloud storage services (e.g., AWS S3, Google Cloud Storage) for efficient storage and retrieval of media files.
