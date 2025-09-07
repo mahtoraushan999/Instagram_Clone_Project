@@ -31,3 +31,18 @@ Utilizing relational databases like PostgreSQL or MySQL, or NoSQL databases like
 
 **Cloud Storage:**
 Integration with cloud storage services (e.g., AWS S3, Google Cloud Storage) for efficient storage and retrieval of media files.
+
+**Educational Value:**
+
+**This project provides hands-on experience in:**
+>Full-stack development principles.
+
+>API design and consumption.
+
+>Database management and schema design.
+
+>User interface/user experience (UI/UX) design.
+
+>Deployment and hosting of web applications.
+
+>Version control systems like Git.
